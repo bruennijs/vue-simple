@@ -1,0 +1,19 @@
+{
+  "name": "vue-go40-simple",
+  "version": "1.0.0",
+  "description": "vue init simple vue-go40-simple",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node_modules/http-server/bin/http-server ./"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.0",
+    "eslint-plugin-vue": "^5.2.2"
+  }
+}
